@@ -263,7 +263,13 @@ public class MapsActivity extends FragmentActivity  {
 
 
 
+ public  void hello(){
 
+
+
+
+
+ }
 
 
 
