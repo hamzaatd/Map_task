@@ -266,10 +266,14 @@ public class MapsActivity extends FragmentActivity  {
  public  void hello(){
 
 
-
+     Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
 
 
  }
+
+
+
+
 
 
 
