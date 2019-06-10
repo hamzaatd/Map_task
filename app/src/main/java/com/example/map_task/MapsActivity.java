@@ -267,6 +267,8 @@ public class MapsActivity extends FragmentActivity  {
 
 
      Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
+     Toast.makeText(this, "hello2", Toast.LENGTH_SHORT).show();
+     Toast.makeText(this, "hello 3", Toast.LENGTH_SHORT).show();
 
 
  }
