@@ -37,6 +37,7 @@ public class MapsActivity extends FragmentActivity  {
         l2=findViewById(R.id.frame2);
         b2=findViewById(R.id.btn1);
 
+        // Toast Checking 
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
       //  mapFragment.getMapAsync(this);
